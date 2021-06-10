@@ -4,12 +4,14 @@ public class
 Principal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        sc.useDelimiter("\n");
         String vehiculo;
         Auto auto = new Auto();
         Moto moto = new Moto();
 
         System.out.println("Ingrese el tipo de Vehiculo (Auto - Moto):");
         vehiculo = sc.next();
+
 
         if(vehiculo.equalsIgnoreCase("Auto"))
         {
@@ -37,7 +39,7 @@ Principal {
             auto.setMarca(sc.next());
             System.out.println("¿El auto tiene estereo (SI - NO): ?");
             String estereo = sc.next();
-            if(estereo.equalsIgnoreCase("si"))
+            if(estereo.equalsIgnoreCase("Si"))
             {
                 auto.setEstereo(true);
             }
