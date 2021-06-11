@@ -37,5 +37,6 @@ El Cars & Coffe fue desarrollado en java 8, con el objetivo que pueda almacenar 
     - Tiene asiento acompañanante (si o no)
 
 ## Integrantes
-Nombres:
+Nombres: DEL VAL, Joaquin / GALLARDO, Fabian / MATOS, Valeria / PALACIOS, Pablo
+
 &copy; derechos reservados PIL 2021
