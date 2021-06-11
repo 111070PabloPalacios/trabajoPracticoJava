@@ -15,6 +15,7 @@ El Cars & Coffe fue desarrollado en java 8, con el objetivo que pueda almacenar 
 - ingresamos   `java Principal` ;
 - comenzamos a cargar los datos;
 ### Los datos a pedir
+- Cantidad de vehiculos a ingresar;
 - Tipo de vehiculo (actualmente solo autos o motos);
   - Auto:
     - Modelo del vehiculo
