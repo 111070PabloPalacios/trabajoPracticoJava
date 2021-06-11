@@ -16,7 +16,8 @@ El Cars & Coffe fue desarrollado en java 8, con el objetivo que pueda almacenar 
 - comenzamos a cargar los datos;
 ### Los datos a pedir
 - Tipo de vehiculo (actualmente solo autos o motos)
-	####Autos
+
+	###Autos
 		Modelo del vehiculo
 		Kilometraje actual
 		Tipo de vehiculo (Deportivo o Familiar)
