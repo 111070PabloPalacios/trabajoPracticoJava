@@ -15,7 +15,7 @@ El Cars & Coffe fue desarrollado en java 8, con el objetivo que pueda almacenar 
 - ingresamos   `java Principal` ;
 - comenzamos a cargar los datos;
 ### Los datos a pedir
-- Tipo de vehiculo (actualmente solo autos o motos)
+- Tipo de vehiculo (actualmente solo autos o motos);
 
 	###Autos
 		Modelo del vehiculo
@@ -25,7 +25,7 @@ El Cars & Coffe fue desarrollado en java 8, con el objetivo que pueda almacenar 
 		Si es usado (si o no)
 		El color del mismo
 		Cantidad de puertas
-		La cantidad de tracciones
+		La cantidad de tracciones;
 	###Motos
 		Modelo del vehiculo
 		Kilometraje actual
@@ -34,7 +34,7 @@ El Cars & Coffe fue desarrollado en java 8, con el objetivo que pueda almacenar 
 		Si es usado (si o no)
 		Marca
 		Si es cilindrada (si o no)
-		Tiene asiento acompañanante (si o no)
+		Tiene asiento acompañanante (si o no);
 
 ##Integrantes
 Nombres:
