@@ -5,6 +5,7 @@ public class Auto extends Vehiculo{
     private int cantidadPuertas;
     private int traccion;
 
+
 //    public Auto() {}
 
     public Auto(String Modelo, int Kilometraje, String Tipo, String Patente, boolean Usado, String Color, String Marca ,boolean estereo, int cantidadPuertas, int traccion) {
@@ -12,12 +13,10 @@ public class Auto extends Vehiculo{
         this.estereo = estereo;
         this.cantidadPuertas = cantidadPuertas;
         this.traccion = traccion;
-
     }
 
     public boolean isEstereo() {
         return estereo;
-
     }
 
     public void setEstereo(boolean estereo) {
